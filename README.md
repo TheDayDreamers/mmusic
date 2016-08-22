@@ -1,2 +1,2 @@
 # mmusic
-a music 
+A music managment web app 
